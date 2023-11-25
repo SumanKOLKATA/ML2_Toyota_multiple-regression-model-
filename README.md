@@ -1,5 +1,6 @@
 # ML2_Toyota_multiple-regression-model-
-## Highest price orineted model = TOYOTA Corolla VERSO 2.0 D4D SOL (7) BNS MPV    32500
+# 👨‍💻 Findings
+### Highest price orineted model = TOYOTA Corolla VERSO 2.0 D4D SOL (7) BNS MPV    32500
 ## Lowest price oriented model = TOYOTA Corolla 1.8D Stationwagen    4350 
 ## Average price of models 
 ## OYOTA Corolla                                                            9390.0
